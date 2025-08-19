@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kapoor aka addyBytes</h1>
-<h3 align="center">Passionate MERN stack frontend developer from India with a knack for UI/UX and a touch of deep learning knowledge.</h3>
+<h3 align="center">Passionate MERN stack frontend developer from India with a knack for UI/UX and a touch of deep learning and SEO knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addybytes&label=Profile%20views&color=0e75b6&style=flat" alt="addybytes" /> </p>
 
