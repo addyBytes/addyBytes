@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [github.com/addyBytes](github.com/addyBytes)
 
-- 💬 Ask me about **Development nd SEO**
+- 💬 Ask me about **Development and SEO**
 
-- 📫 How to reach me **itzadityakapoor@gmail.com**
+- 📫 How to reach me **itzadityakapoor@gmail.com or akapoor22it@student.mes.ac.in**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Kzr6a4HI-hqJ8ly5S618TP8USOoz82L3?usp=drive_link](https://drive.google.com/drive/folders/1Kzr6a4HI-hqJ8ly5S618TP8USOoz82L3?usp=drive_link)
 
