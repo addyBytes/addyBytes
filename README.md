@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kapoor aka addyBytes</h1>
 <h3>💫 About Me:</h3>
-🌱 I’m currently learning DSA<br><br>👨‍💻 All of my projects are available at github.com/addyBytes<br><br>💬 Ask me about Development and SEO<br><br>📫 How to reach me itzadityakapoor@gmail.com or akapoor22it@student.mes.ac.in<br><br>📄 Know about my experiences https://docs.google.com/document/d/1-nsePky2NXhcO1NwcN2eJDNNB-Znv4eaVrrgrCRzej0/edit?usp=drive_link<br><br>⚡ Fun fact I love creating content
+🌱 I’m currently learning DSA<br><br>👨‍💻 All of my projects are available at github.com/addyBytes<br><br>💬 Ask me about Development and SEO<br><br>📫 How to reach me itzadityakapoor@gmail.com or akapoor22it@student.mes.ac.in<br><br>📄 Know about my experiences [https://docs.google.com/document/d/1-nsePky2NXhcO1NwcN2eJDNNB-Znv4eaVrrgrCRzej0/edit?usp=drive_link](https://docs.google.com/document/d/1e9ExpiUMHkwogRzouDpjmsaI0tSZ3JA2AKw8tBY0bNk/edit?usp=sharing)<br><br>⚡ Fun fact I love creating content
 
 
 ## 🌐 Socials:
